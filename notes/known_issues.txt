@@ -1,0 +1,7 @@
+Known issues
+
+- Session indexes differ between 0.2 and 0.3.
+- Duplicate messages occasionally survive cleanup.
+- Renamed assistants may revert to default name.
+- Some timestamps are malformed.
+- QUIET occasionally fails to remove discarded context.

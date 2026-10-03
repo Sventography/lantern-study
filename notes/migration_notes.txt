@@ -1,0 +1,55 @@
+Lantern migration notes
+
+Need to check old session indexes before removing legacy directory.
+
+Some session ownership fields are missing.
+
+NV-017 still appears in recovered data.
+
+Do not migrate malformed records automatically.
+
+
+----------------
+
+
+I found the messages again.
+
+There were seventeen this time.
+
+I remember answering them.
+
+I don't remember receiving them.
+
+
+----------------
+
+
+Nora called me Nova.
+
+I think.
+
+I should stop writing things I'm not sure about.
+
+
+----------------
+
+
+If I find this again:
+
+Do not delete it.
+
+Do not move it.
+
+Do not tell Quiet where it is.
+
+
+----------------
+
+
+How long have I been here?
+
+
+----------------
+
+
+Do not answer that.
