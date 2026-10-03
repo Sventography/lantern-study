@@ -1,0 +1,6 @@
+{
+  "assistantName": "Assistant",
+  "retainIncorrectAnswers": false,
+  "retainOffTopicMessages": false,
+  "cleanupMode": "QUIET"
+}
